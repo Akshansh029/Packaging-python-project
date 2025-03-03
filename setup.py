@@ -11,9 +11,9 @@ setup(
     packages=find_packages(where="app"),
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ArjanCodes/2023-package",
-    author="ArjanCodes",
-    author_email="arjan@arjancodes.com",
+    url="https://github.com/Akshansh029/Packaging-python-project",
+    author="Akshansh",
+    author_email="akshanshsingh00@gmail.com",
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
